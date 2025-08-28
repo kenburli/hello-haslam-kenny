@@ -1,4 +1,6 @@
 # hello-haslam-kenny
 My first repo
 
-update
+update from online
+
+update local
